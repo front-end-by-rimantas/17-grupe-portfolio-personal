@@ -1,0 +1,20 @@
+@import './reset.css';
+
+@import './button.css';
+@import './form.css';
+
+@import './header.css';
+@import './hero.css';
+@import './services.css';
+@import './about.css';
+@import './portfolio.css';
+@import './fun-facts.css';
+@import './team.css';
+@import './testimonials.css';
+@import './news.css';
+@import './contact.css';
+@import './clients.css';
+@import './footer.css';
+@import './back-to-top.css';
+
+@import './custom.css';

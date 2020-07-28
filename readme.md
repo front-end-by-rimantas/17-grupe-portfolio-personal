@@ -9,7 +9,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://github.com/front-end-by-rimantas/17-grupe-portfolio-personal
 
-Design: [Personal template])(https://colorlib.com/preview/theme/personal/index.html)
+Design: [Personal template](https://colorlib.com/preview/theme/personal/index.html)
 
 ##### Authors
 [Deividas](https://github.com/Deivis151)

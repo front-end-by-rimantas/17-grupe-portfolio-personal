@@ -3,14 +3,17 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![HitCount](http://hits.dwyl.com/front-end-by-rimantas/17-grupe-agency.svg)](http://hits.dwyl.com/front-end-by-rimantas/17-grupe-agency)
 
-# Agency
-### 17 group agency website project
+#  Portfolio-personal project
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/17-grupe-agency/index.html
+Site published at https://github.com/front-end-by-rimantas/17-grupe-portfolio-personal
 
-Design: [Agency template](http://trydo.rainbowit.net/home-particles)
+Design: [Personal template](https://colorlib.com/preview/theme/personal/index.html)
 
-### Authors
-[Rimantas](https://github.com/belauzas)
+##### Authors
+[Deividas](https://github.com/Deivis151)
+[Saulius](https://github.com/Saulius20)
+[Labenas](https://github.com/Labenas)
+[Robertas](https://github.com/rober6)
+[Kristijonas](https://github.com/Generasu)

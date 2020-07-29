@@ -1,0 +1,38 @@
+#about_me>.container {
+    display: inline-block;
+    width: 800px;
+    margin: 50px;
+}
+
+#about_me>.container>.column-left {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+
+#about_me>.container>.column-right {
+    display: inline-block;
+    width: 50%;
+    float: right;
+}
+
+#about_me>.container>.column-left>.img {
+    width: 500px;
+}
+
+#about_me>.container>.column-right>.btn {
+    display: inline-block;
+    background-color: #1e21ea;
+    color: #fff;
+    font-size: 18px;
+    line-height: 20px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px #aaa;
+}
+
+#about_me>.container>.column-right>.btn:hover {
+    cursor: pointer;
+    background-color: #56a8eb;
+    box-shadow: 0 10px rgb(135, 22, 180);
+}

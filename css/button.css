@@ -1,0 +1,20 @@
+.btn {
+    background: rgb(132, 144, 255);
+    background: -moz-linear-gradient(90deg, rgba(132, 144, 255, 1) 0%, rgba(98, 189, 252, 1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(132, 144, 255, 1) 0%, rgba(98, 189, 252, 1) 100%);
+    background: linear-gradient(90deg, rgba(132, 144, 255, 1) 0%, rgba(98, 189, 252, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#8490ff", endColorstr="#62bdfc", GradientType=1);
+    color: white;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 11px 32px;
+    font-weight: 500;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.btn:hover {
+    box-shadow: 0 20px 20px 0 rgba(132, 144, 255, .3);
+}

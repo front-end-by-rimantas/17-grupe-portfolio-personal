@@ -1,16 +1,16 @@
-#about_me>.container {
+.container {
     display: inline-block;
     width: 800px;
     margin: 50px;
 }
 
-#about_me>.container>.column-left {
+.container>.column-left {
     display: inline-block;
     width: 50%;
     float: left;
 }
 
-#about_me>.container>.column-right {
+.container>.column-right {
     display: inline-block;
     width: 50%;
     float: right;

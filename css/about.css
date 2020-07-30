@@ -16,16 +16,16 @@
     float: right;
 }
 
-#about_me>.container>.column-left>.img {
-    width: 500px;
+.img {
+    width: 20px;
 }
 
-#about_me>.container>.column-right>.btn {
+.btn {
     display: inline-block;
     background-color: #1e21ea;
     color: #fff;
     font-size: 18px;
-    line-height: 20px;
+    line-height: 40px;
     padding: 10px 20px;
     border-radius: 4px;
     box-shadow: 0 2px 4px #aaa;

@@ -1,14 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agency</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/main.css">
 </head>
+
 <body>
     <!-- header: start -->
-    <header id="main_header"></header>
+    <!-- Navigations Bars -->
+    <header id="main_header" class="container-nav">
+        <a href="#"><img src="https://colorlib.com/preview/theme/personal/img/logo.png" alt="logo"></a>
+        <div class="nav-bar">
+            <a id="home" href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">portfolio</a>
+            <a href="#">Pricing</a>
+            <div class="dropdown-blog">
+                <a href="#">Blog</a>
+                <div class="dropdown-content-blog">
+                    <a href="#">Blog Home</a>
+                    <a href="#">Blog Single</a>
+                </div>
+            </div>
+            <div class="dropdown-pages">
+                <a href="#">Pages</a>
+                <div class="dropdown-content-pages">
+                    <a href="#">Elements</a>
+                    <!-- pakeitimai -->
+                    <a class="level" href="#">Level 2</a>
+                    <div class="dropdown-content-level">
+                        <a href="#">Item One</a>
+                        <a href="#">Item Two</a>
+                    </div>
+
+                    <!-- pakeitimai -->
+                </div>
+            </div>
+
+            <a href="#">contact</a>
+        </div>
+        <!-- Hamburger Meniu HTML -->
+        <input type="checkbox" class="meniu-click hidden-meniu">
+        <div class="hamburger hidden-meniu">
+            <div></div>
+        </div>
+        <div class="meniu-links hidden-meniu">
+            <a id="home" href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">portfolio</a>
+            <a href="#">Pricing</a>
+            <a href="#">Blog</a>
+            <a href="#">Pages</a>
+            <a href="#">Contact</a>
+            <div class="shade"></div>
+        </div>
+    </header>
     <!-- header: end -->
     <!-- hero: start -->
     <div id="hero"></div>
@@ -48,4 +100,5 @@
     <!-- back-to-top: end -->
     <script src="./js/main.js" type="module"></script>
 </body>
+
 </html>

@@ -30,13 +30,13 @@ div {
 }
 
 .img-fluid {
-    max-width: 80%;
+    max-width: 100%;
     align-items: center;
     height: auto;
 }
 
 img {
-    display: inline-block;
+    display: block;
     vertical-align: center;
     border-style: none;
 }
@@ -118,7 +118,7 @@ p {
 
 .col {
     position: relative;
-    width: 40%;
+    width: 50%;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;

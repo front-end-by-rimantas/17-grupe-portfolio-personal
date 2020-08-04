@@ -1,0 +1,109 @@
+#main-footer {
+    background-color: #04091e;
+    width: 100%;
+    display: inline-block;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.about_me{
+    width: 30%;
+    display: inline-block;
+    margin-left: 10%;
+}
+.about_me > h2{
+    color: white;
+
+}
+.about_me > p{
+    color: gray;
+    margin-top: 20px;
+}
+.about_me > p > a{
+    text-decoration: none;
+    color: #8490ff;
+}
+.newsletter{
+    width: 30%;
+    display: inline-block;
+    margin-left: 50px;
+}
+.newsletter > h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+.newsletter > p {
+    color: gray;
+}
+.newsletter > input {
+    margin-top: 15px;
+    padding: 9px 200px 9px 15px;
+}
+.arrow_icon {
+    background-color: #8490ff;
+    color: white;
+    padding: 5px ;
+    padding-top: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: -6px;
+    
+}
+.follow_me {
+    width: 20%;
+    display: inline-block;
+    margin-left: 5%;
+}
+.follow_me > h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+.follow_me > p {
+    color: gray;
+}
+.follow_me > p > i {
+    color: white;
+    margin-left: 9px;
+    margin-top: 20px;
+}
+.follow_me > p > i:hover{
+    color: #8490ff;
+}
+@media only screen and (max-width: 1250px){
+    .newsletter > input {
+        padding: 9px 150px 9px 15px;
+    }
+}
+@media only screen and (max-width: 1250px){
+    .follow_me {
+        margin-left: 10%;
+        margin-top: 50px;
+    }
+}
+@media only screen and (max-width: 1050px){
+    .newsletter > input {
+        padding: 9px 100px 9px 15px;
+    }
+}
+@media only screen and (max-width: 900px){
+    .newsletter > input {
+        padding: 9px 75px 9px 15px;
+    }
+}
+@media only screen and (max-width: 800px){
+    .newsletter > input {
+        padding: 9px 50px 9px 15px;
+    }
+}
+@media only screen and (max-width: 700px){
+    .newsletter > input {
+        padding: 9px 25px 9px 15px;
+    }
+    .newsletter{
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .newsletter > input {
+        padding: 9px 10px 9px 15px;
+    }
+}

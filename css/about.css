@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-
-#about_me {
-    background-color: rgb(245, 219, 219);
-    padding-bottom: 50px;
-    margin-inline: 50px;
-=======
 element.style {
     display: block;
->>>>>>> 4da818c10b173d1e90ac92cb06d86687366dba6d
 }
 
 body, body * {
@@ -31,11 +23,6 @@ body {
 
 section {
     display: inline-block;
-<<<<<<< HEAD
-    width: 1000px;
-    height: 500px;
-    margin: 50px;
-=======
 }
 
 div {
@@ -44,7 +31,6 @@ div {
 
 .img-fluid {
     max-width: 100%;
->>>>>>> 4da818c10b173d1e90ac92cb06d86687366dba6d
     align-items: center;
     height: auto;
 }
@@ -93,23 +79,6 @@ h6 {
     max-width: 445px;
 }
 
-<<<<<<< HEAD
-.btn {
-    display: block;
-    background-color: #1e21ea;
-    margin: 50px;
-    width: auto;
-    float: left;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #fff;
-    font-size: 18px;
-    line-height: 40px;
-    padding: 30px 30px;
-    border-color: #1e21ea;
-    box-shadow: 0 20px 40px #aaa;
-    align-items: right;
-=======
 p {
     margin-top: 0;
     margin-bottom: 1rem;
@@ -153,27 +122,12 @@ p {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
->>>>>>> 4da818c10b173d1e90ac92cb06d86687366dba6d
 }
 
 .text-uppercase {
     text-transform: uppercase !important;
 }
 
-<<<<<<< HEAD
-.container>.column-right {
-    display: inline-block;
-    width: 40%;
-    height: 50%;
-    float: right padding: 0px 50px 0px 0px;
-}
-
-.img {
-    display: inline-block;
-    width: 40px;
-    justify-content: left;
-    vertical-align: middle;
-=======
 ::selection {
     background-color: #8490ff;
     color: #fff;
@@ -183,7 +137,6 @@ p {
     background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
     background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
     background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
->>>>>>> 4da818c10b173d1e90ac92cb06d86687366dba6d
 }
 
 .primary-btn {
@@ -202,11 +155,6 @@ p {
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     cursor: pointer;
-<<<<<<< HEAD
-    background-color: #56a8eb;
-    box-shadow: 0 10px rgb(135, 22, 180);
-}
-=======
     position: relative;
 }
 
@@ -226,4 +174,3 @@ p {
     flex: 0 0 50%;
     max-width: 50%;
 }
->>>>>>> 4da818c10b173d1e90ac92cb06d86687366dba6d

@@ -35,7 +35,8 @@ body, body * {
     font-weight: 400;
 }
 
-.myh1, .myh6 {
+.myh1 {
+    font-size: 20px;
     font-family: Tahoma, Geneva, Verdana, sans-serif, sans-serif;
     color: #222222;
     line-height: 20px;
@@ -44,8 +45,12 @@ body, body * {
 }
 
 .myh6 {
-    font-size: 14px;
+    font-size: 15px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif, sans-serif;
     color: #222222;
+    line-height: 20px;
+    margin-top: 0;
+    font-weight: 600;
     display: inline-block;
     margin-block-start: 25px;
     margin-block-end: 25px;
@@ -57,7 +62,7 @@ body, body * {
 .myp1 {
     margin-bottom: 14px;
     margin-top: 0;
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 20px;
     display: inline-block;
     margin-block-start: 20px;
